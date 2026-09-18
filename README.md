@@ -39,7 +39,7 @@ Exploring large-scale geographic and longitudinal datasets using Python
 visualization and Tableau.
 
 
-📚 Research interests:
+## 📚 Research interests:
 Business Analytics · Predictive Modeling · AI Applications · 
 Data-driven Decision Making
 
